@@ -1,5 +1,7 @@
 # Assignment 1 (Stabilizer codes)
 
+If possible, read [this](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.52.R2493) paper before starting this assignment. This is one of the foundational papers on QEC, and was written when the ideas of QEC weren't even formalized. It's quite instructive to see the thought process laid out in simple words there, and form your own perspectives on the topic of QEC then.
+
 Use a _single_ jupyter notebook with embedded markdown and code to answer the following questions. Be brief with the analytical answers, but properly comment your code! 
 
 1. Recall the 'pizza slice' picture of quantum error correction: given that I have $n$ qubits, and I want to encode $k < n$ logical qubits in them, how many stabilizers do I need? What is the number of _independent_ stabilizers (i.e., the stabilizer _generators_)? 
